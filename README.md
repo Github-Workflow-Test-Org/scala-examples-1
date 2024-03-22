@@ -1,4 +1,4 @@
-# Scala code examples.
+# Scala code examples.s
 
 This repository has my learning scala examples
 
